@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+/ats/ats/Debug
+/ats/Debug
+/ats/ats.VC.VC.opendb
+/ats/ats.VC.db
